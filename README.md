@@ -2,10 +2,14 @@
 - This project is a deep learning-based Image Captioning System developed to help visually impaired individuals understand and interpret images through automatically generated textual descriptions.
 - By converting image content into descriptive captions, the model aims to enhance accessibility and provide context from visual information in a language format.
 
+  
+
  # :rocket: Features
 - 🧾 Caption Generation: Automatically generates human-like captions for input images.
 - 🧠 LSTM + CNN Encoder-Decoder Architecture: Combines visual understanding and sequential prediction for accurate descriptions.
 - 📦 Pre-extracted Image Features: Efficient feature extraction using pretrained VGG16 model.
+
+  
 
 
 # :rocket: Dataset
