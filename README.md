@@ -14,12 +14,12 @@
 
 # :rocket: Dataset
 - Flickr8k Dataset (https://www.kaggle.com/datasets/adityajn105/flickr8k)
-- ~8,000 images
-- Each image has 5 human-written captions
+ - ~8,000 images
+ - Each image has 5 human-written captions
 - Preprocessing includes:
-- Tokenization & Vocabulary creation
-- Padding sequences
-- Mapping image features and captions
+ - Tokenization & Vocabulary creation
+ - Padding sequences
+ - Mapping image features and captions
 
 
 
